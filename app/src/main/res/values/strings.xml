@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MYUZARHASPANI_1202154133_MODUL4</string>
+        <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+        <string name="find_image">Find Image</string>
+        <string name="mulai_asynctask">Mulai AsynTask</string>
+        <string name="link_gambar">http://techradix.in/wp-content/uploads/2018/03/Android-Oreo-Training-Institute-in-Surat.gif</string>
+
+        <string-array name="names">
+            <item>Andi</item>
+            <item>Didi</item>
+            <item>Jajang</item>
+            <item>Ergon</item>
+            <item>Zaenal</item>
+            <item>Hakim</item>
+            <item>Ujang</item>
+            <item>Rudi</item>
+            <item>Wirasandi</item>
+            <item>Bambang</item>
+            <item>Tom</item>
+            <item>Dedi</item>
+            <item>Rama</item>
+            <item>Juki</item>
+            <item>Hisam</item>
+        </string-array>
+    </resources>
